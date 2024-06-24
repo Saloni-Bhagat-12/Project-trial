@@ -1,0 +1,6 @@
+com\example\proj\trial\repository\ProductRepository.class
+com\example\proj\trial\project_trial\SwaggerConfig.class
+com\example\proj\trial\service\ProductService.class
+com\example\proj\trial\project_trial\ProjectTrialApplication.class
+com\example\proj\trial\controller\ProductController.class
+com\example\proj\trial\model\Product.class
